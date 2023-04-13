@@ -1,5 +1,5 @@
 **Protocol for systematic review of hypertension codes**
-
+[![DOI](https://zenodo.org/badge/627378111.svg)](https://zenodo.org/badge/latestdoi/627378111)
 **Review title**
 A systematic review of codes used in routinely collected electronic healthcare record data to determine the presence of hypertension
 
